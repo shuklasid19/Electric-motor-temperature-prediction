@@ -9,6 +9,14 @@ https://www.kaggle.com/code/sidshukla97/electric-motor/edit/run/94940214
 
 https://www.kaggle.com/datasets/wkirgsn/electric-motor-temperature
 
+In this notebook i tried to implement multiple machine learning algorithms(LinearRegression, Lasso Regression ,Ridge Regression , DecisionTreeRegressor, knn, xgboost,catboost) as well as, an ann model to see how much machine learning algorithms differ, from the  result from a neural network approach.
+
+
+
+
+
+
+
 Context
 The data set comprises several sensor data collected from a permanent magnet synchronous motor (PMSM) deployed on a test bench. The PMSM represents a german OEM's prototype model. Test bench measurements were collected by the LEA department at Paderborn University.
 
