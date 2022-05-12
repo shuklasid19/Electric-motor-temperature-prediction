@@ -1,3 +1,10 @@
+# Electric-motor-temperature-prediction
+Its problem faced in EV motors we have to predict the temperature of motor according to given features...
+
+
+#its my kaggle notebook.
+https://www.kaggle.com/code/sidshukla97/electric-motor/edit/run/94940214
+
 '''
 
 https://www.kaggle.com/datasets/wkirgsn/electric-motor-temperature
@@ -17,11 +24,3 @@ Most driving cycles denote random walks in the speed-torque-plane in order to im
 
 
 '''
-
-
-# Electric-motor-temperature-prediction
-Its problem faced in EV motors we have to predict the temperature of motor according to given features...
-
-
-#its my kaggle notebook.
-https://www.kaggle.com/code/sidshukla97/electric-motor/edit/run/94940214
